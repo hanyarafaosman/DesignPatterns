@@ -4,12 +4,44 @@ A comprehensive C# demonstration repository showcasing **15 essential design pat
 
 ## 🚀 Quick Start
 
+### Console Mode (Interactive Menu)
 ```bash
 cd DesignPattern/DesignPattern
 dotnet run
 ```
 
 The interactive menu lets you explore patterns individually or run all demos at once.
+
+### API Mode (Web API for Testing & Debugging)
+```bash
+cd DesignPattern/DesignPattern
+dotnet run --api
+```
+
+Access Swagger UI at: **http://localhost:5000**
+
+#### Available Endpoints:
+- `GET /api/patterns` — List all patterns
+- `GET /api/patterns/{id}/before` — Run "before" demo (problem)
+- `GET /api/patterns/{id}/after` — Run "after" demo (solution)
+- `GET /api/patterns/{id}/compare` — Compare before/after
+- `GET /api/patterns/all` — Run all patterns
+- `GET /api/patterns/categories` — Group patterns by category
+
+#### Example API Calls:
+```bash
+# List all patterns
+curl http://localhost:5000/api/patterns
+
+# Run Singleton before demo
+curl http://localhost:5000/api/patterns/singleton/before
+
+# Compare Strategy pattern
+curl http://localhost:5000/api/patterns/strategy/compare
+
+# Run all patterns
+curl http://localhost:5000/api/patterns/all
+```
 
 ---
 

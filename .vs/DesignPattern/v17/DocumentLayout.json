@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Books\\DesignPattern\\DesignPattern\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D6D206F-A860-4325-8C66-2454C10BDC08}|DesignPattern\\DesignPattern.csproj|d:\\books\\designpattern\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6D206F-A860-4325-8C66-2454C10BDC08}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D6D206F-A860-4325-8C66-2454C10BDC08}|DesignPattern\\DesignPattern.csproj|d:\\books\\designpattern\\designpattern\\designpattern\\patterns\\factory\\factorybefore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D6D206F-A860-4325-8C66-2454C10BDC08}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\patterns\\factory\\factorybefore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -43,15 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Books\\DesignPattern\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
+              "ToolTip": "D:\\Books\\DesignPattern\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "DesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T17:31:37.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FactoryBefore.cs",
               "DocumentMoniker": "D:\\Books\\DesignPattern\\DesignPattern\\DesignPattern\\Patterns\\Factory\\FactoryBefore.cs",
               "RelativeDocumentMoniker": "DesignPattern\\Patterns\\Factory\\FactoryBefore.cs",
               "ToolTip": "D:\\Books\\DesignPattern\\DesignPattern\\DesignPattern\\Patterns\\Factory\\FactoryBefore.cs",
               "RelativeToolTip": "DesignPattern\\Patterns\\Factory\\FactoryBefore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T08:48:30.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T08:48:30.845Z"
             }
           ]
         },
